@@ -39,7 +39,7 @@ header {
     width: 22cm;
     padding-top: 0.5cm;
     padding-bottom: 20px;
-    background: yellow;
+    background: rgb(255, 255, 87);
     text-align: 50px;
     border-radius: 20px;
 }
